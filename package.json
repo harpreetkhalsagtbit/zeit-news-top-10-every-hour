@@ -1,0 +1,24 @@
+{
+  "name": "zeit-news-top-10-every-hour",
+  "version": "1.0.0",
+  "description": "learn zeit",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harpreetkhalsagtbit/zeit-news-top-10-every-hour.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harpreetkhalsagtbit/zeit-news-top-10-every-hour/issues"
+  },
+  "homepage": "https://github.com/harpreetkhalsagtbit/zeit-news-top-10-every-hour#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
