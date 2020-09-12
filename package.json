@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/harpreetkhalsagtbit/zeit-news-top-10-every-hour#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
